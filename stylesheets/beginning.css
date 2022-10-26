@@ -1,12 +1,12 @@
 /* стандартные значения */
 h3 {
   font-size: 65px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
 }
 h5 {
   font-size: 83px;
   line-height: 103%;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   width: 801px;
   height: 170px;
   margin-top: 107px;
@@ -70,7 +70,7 @@ h5 {
   position: absolute;
   transform: rotate(-7.1deg);
   font-size: 21px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   text-align: center;
   line-height: 25.4px;
   top: 388px;
@@ -259,7 +259,7 @@ h5 {
   width: 140px;
   height: 36px;
   font-size: 30px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 48px;
   left: 1207px;
@@ -387,7 +387,7 @@ h5 {
 .sq02 > p {
   font-size: 300px;
   font-style: italic;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .A {

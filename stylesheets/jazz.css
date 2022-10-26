@@ -76,7 +76,7 @@
 }
 .jazzz {
   font-size: 300px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   line-height: 188px;
 }
 .jazzz p:nth-of-type(1) {
@@ -316,7 +316,7 @@
 }
 .daance > p {
   font-size: 315px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .daance p:nth-of-type(1) {
@@ -468,7 +468,7 @@
 }
 .name > h4, .group > h4, .font > h4 {
   font-size: 40px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .name > h4 {

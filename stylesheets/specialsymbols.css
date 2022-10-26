@@ -110,7 +110,7 @@
 .specialsymbols > p {
   font-size: 96px;
   font-style: italic;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   transform: rotate(8.66deg);
 }

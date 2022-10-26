@@ -18,17 +18,17 @@
 }
 .mr3 {
   font-size: 255px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .mr4 {
   font-size: 223px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .mr5 {
   font-size: 100px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
 }
 .mr6 {
@@ -100,14 +100,14 @@
 }
 .moresymbols p:nth-of-type(15) {
   font-size: 176px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 568px;
   left: 350px;
 }
 .moresymbols p:nth-of-type(16) {
   font-size: 567px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 353px;
   left: 415px;
@@ -133,14 +133,14 @@
 }
 .moresymbols p:nth-of-type(21) {
   font-size: 379px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: -18px;
   left: 559px;
 }
 .moresymbols p:nth-of-type(22) {
   font-size: 170px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 590px;
   left: 515px;
@@ -197,7 +197,7 @@
 }
 .moresymbols p:nth-of-type(35) {
   font-size: 148px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 468px;
   left: 740px;
@@ -224,7 +224,7 @@
 }
 .moresymbols p:nth-of-type(41) {
   font-size: 449px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   letter-spacing: 0.025em;
   top: 276px;
@@ -239,7 +239,7 @@
   right: 383px;
 }
 .moresymbols p:nth-of-type(44) {
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   top: -10px;
   right: 257px;
 }
@@ -249,21 +249,21 @@
 }
 .moresymbols p:nth-of-type(46) {
   font-size: 409px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 509px;
   left: 1267px;
 }
 .moresymbols p:nth-of-type(47) {
   font-size: 189px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: -44px;
   left: 1214px;
 }
 .moresymbols p:nth-of-type(48) {
   font-size: 165px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   position: absolute;
   top: 140px;
   left: 1213px;
@@ -273,7 +273,7 @@
   right: 247px;
 }
 .moresymbols p:nth-of-type(50) {
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   top: 6px;
   right: -4px;
 }
@@ -281,7 +281,7 @@
   width:165px;
   height: 315px;
   font-size: 30px;
-  font-weight: bold;
+  font-family: 'Brioni Pro Bold';
   text-align: center;
   line-height: 151%;
   position: absolute;
