@@ -1,0 +1,507 @@
+/* стандартные значения */
+h3 {
+  font-size: 65px;
+  font-weight: bold;
+}
+h5 {
+  font-size: 83px;
+  line-height: 103%;
+  font-weight: bold;
+  width: 801px;
+  height: 170px;
+  margin-top: 107px;
+  margin-left: 90px;
+}
+.beginning {
+  position: absolute;
+  width: 1440px;
+  height: 978px;
+}
+/* ИСТОРИЯ СОЗДАНИЯ */
+.history {
+  position: relative;
+  width: 1440px;
+  height: 936px;
+  top: 978px;
+  overflow: hidden;
+}
+.plastina1 {
+  width: 934px;
+  height: 934px;
+  position: absolute;
+  background: black;
+  border-radius: 500px;
+  left: -49px;
+  top: 0px;
+}
+.plastina2 {
+  width: 590px;
+  height:590px;
+  border-radius: 500px;
+  background: black;
+  border: 6px solid white;
+  position: absolute;
+  left: 122px;
+  top: 170px;
+}
+.plastina3 {
+  width: 436px;
+  height: 436px;
+  position: absolute;
+  background: white;
+  top: 252px;
+  left: 206px;
+  border-radius: 500px;
+}
+.square1 {
+  width: 99px;
+  height: 62px;
+  position: absolute;
+  top: 376px;
+  left: 256px;
+  border-radius: 20px;
+  border: 4px solid black;
+  background: white;
+  transform: rotate(-7.1deg);
+}
+.brioni {
+  width: 65px;
+  height: 50px;
+  position: absolute;
+  transform: rotate(-7.1deg);
+  font-size: 21px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 25.4px;
+  top: 388px;
+  left: 276px;
+}
+.historyy {
+  width: 185px;
+  height: 14px;
+  position: absolute;
+  transform: rotate(-7.1deg);
+  font-size: 11px;
+  top: 341px;
+  left: 367px
+}
+.history1 {
+  width: 190px;
+  height: 90px;
+  position: absolute;
+  transform: rotate(-7.1deg);
+  font-size: 33px;
+  font-weight: bold;
+  line-height: normal;
+  top: 354px;
+  left: 374px;
+}
+.center {
+  width: 34px;
+  height: 34px;
+  background: black;
+  border-radius: 300px;
+  position: absolute;
+  top: 453px;
+  left: 401px;
+}
+.history2 {
+  width: 457px;
+  height: 140px;
+  position: absolute;
+  transform: rotate(-7.1deg);
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  top: 508px;
+  left: 204px;
+}
+.add {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 132px;
+  height: 110px;
+  margin-top:-625px;
+  margin-left: 1020px;
+
+}
+.ad1 {
+  width: 145px;
+  height: 405px;
+  border-radius: 20px;
+  border: 6px solid black;
+  background: white;
+  position: absolute;
+  top: 23px;
+  left: 1008px;
+}
+.ad2 {
+  width: 28px;
+  height: 98px;
+  background: white;
+  border-radius: 15px;
+  border: 6px solid black;
+}
+.ad5 {
+  width: 87px;
+  height: 98px;
+  position: absolute;
+  background: white;
+  border-radius: 15px;
+  border: 6px solid black;
+  left: 1030px;
+  top: 49px;
+}
+.for1 {
+  position: absolute;
+  left: 659px;
+  top: 58px;
+}
+.ad6 {
+  width: 243px;
+  height: 328px;
+  background: white;
+  border: 6px solid black;
+  border-radius: 15px;
+  position: absolute;
+  top: 23px;
+  left: 1179px;
+}
+.ad7 {
+  width: 243px;
+  height: 473px;
+  background: white;
+  border-radius: 25px;
+  border: 6px solid black;
+  position: absolute;
+  top:408px;
+  left:1179px;
+}
+.c13 {
+  width:278px;
+  height: 175px;
+  justify-content: space-between;
+  display: flex;
+  position: absolute;
+  margin-top: -314px;
+  margin-left: 862px;
+}
+.c45 {
+  width:278px;
+  height: 175px;
+  justify-content: space-between;
+  display: flex;
+  position: absolute;
+  margin-top: -170px;
+  margin-left: 862px;
+}
+.c1 {
+  width: 116px;
+  height: 116px;
+  border: 6px solid black;
+  border-radius: 300px;
+  background: white;
+  position: relative;
+}
+.c1 > div:nth-of-type(1), .c2 > div:nth-of-type(1) {
+  width:42px;
+  height: 42px;
+  background: black;
+  border-radius: 100%;
+  position: absolute;
+  top: 37px;
+  left:37px;
+}
+.sch1 {
+  width:43px;
+  height: 16px;
+  border-radius: 2px;
+  position: absolute;
+  background: black;
+}
+.c13 > div:nth-of-type(1) > .sch1 {
+  top:49px;
+  left:18px;
+  transform: rotate(178.07deg);
+}
+.c13 > div:nth-of-type(2) > .sch1 {
+  top:31px;
+  left:21px;
+  transform: rotate(50.17deg);
+}
+.c2 > .sch1 {
+  top:50px;
+  left:61px;
+}
+.c45 > div:nth-of-type(1) > .sch1 {
+  top:25px;
+  left:35px;
+  transform: rotate(87.63deg);
+}
+.c45 > div:nth-of-type(2) > .sch1 {
+  top:69px;
+  left:38px;
+  transform: rotate(87.63deg);
+}
+.c2 {
+  width: 116px;
+  height: 116px;
+  border: 6px solid black;
+  border-radius: 300px;
+  background: white;
+  position: absolute;
+  top: 477px;
+  left: 1012px;
+}
+
+.pam {
+  width: 140px;
+  height: 36px;
+  font-size: 30px;
+  font-weight: bold;
+  position: absolute;
+  top: 48px;
+  left: 1207px;
+}
+.pam1 {
+  width: 200px;
+  height: 240px;
+  font-size: 17px;
+  position: absolute;
+  top:96px;
+  left:1206px;
+  line-height: 29px;
+}
+.beg {
+  width: 234px;
+  height: 353.63px;
+  position: absolute;
+  top: 520px;
+  left: 888px;
+}
+.beg1 {
+  width: 204px;
+  height: 369px;
+  position: absolute;
+  top: 470px;
+  left: 1205px;
+}
+.proigr, .proigr1 {
+  width: 204px;
+  height: 343px;
+  position: absolute;
+  top: 389px;
+  right: 31px;
+}
+.proigr > div {
+  width: 192px;
+  height: 6px;
+  background: white;
+  border-radius: 9px;
+  border: 6px solid black;
+  margin-top: 90px;
+}
+.proigr1 > div {
+  width: 39px;
+  height: 25px;
+  background: white;
+  border: 6px solid black;
+  border-radius: 10px;
+  margin-top:72px;
+}
+.proigr1 div:nth-of-type(1) {
+  position: absolute;
+  top: 9px;
+  left: 128px;
+}
+.proigr1 div:nth-of-type(2) {
+  position: absolute;
+  top: 117px;
+  left: 27px;
+}
+.proigr1 div:nth-of-type(3) {
+  position: absolute;
+  top: 224px;
+  left: 77px;
+}
+.proigr1 div:nth-of-type(4) {
+  position: absolute;
+  top: 332px;
+  left: 60px;
+}
+.proigr2 {
+  width: 191px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  top:10px;
+  left:10px;
+}
+.proigr2 > div {
+  width: 10px;
+  height: 10px;
+  background: black;
+  margin-left: 5px;
+}
+/* АЛФАВИТ */
+.alphabet {
+  width: 1440px;
+  height: 824px;
+  position: relative;
+  top: 975px;
+}
+.sq01 {
+  width: 1434px;
+  height: 816px;
+  border: 3px solid black;
+  position: absolute;
+  top:3px;
+}
+.sq00, .sq001, .sq002, .sq003 {
+  position: absolute;
+  width: 1440px;
+  height: 824px;
+  display: flex;
+  margin-left: 0px;
+  margin-top: 2px;
+}
+.sq001 {
+  margin-top: 208px;
+}
+.sq002 {
+  margin-top: 412px;
+}
+.sq003 {
+  margin-top: 618px;
+}
+.sq02 {
+  width: 202px;
+  height:203px;
+  border: 2px solid black;
+  margin-left: 0px;
+  overflow: hidden;
+  position: relative;
+}
+.sq02 > p {
+  font-size: 300px;
+  font-style: italic;
+  font-weight: bold;
+  position: absolute;
+}
+.A {
+  width: 184px;
+  height: 324px;
+  top:21px;
+  left:21px;
+}
+
+.B {
+  top: -67px;
+  left: -44px;
+}
+.C {
+  top: -8px;
+  left: 8px;
+}
+.D {
+  top: -39px;
+  left: 33px;
+}
+.E {
+  top: 11px;
+  left: -6px;
+}
+.F {
+  top: -63px;
+  left: -1px;
+}
+.G {
+  top: -1px;
+  left: -12px;
+}
+.H {
+  top: -24px;
+  left: -55px;
+}
+.I {
+  top: -3px;
+  left: 35px;
+}
+.J {
+  top: -93px;
+  left: 30px;
+}
+.K {
+  top: 10px;
+  left: 9px;
+}
+.L {
+  top: -65px;
+  left: 17px;
+}
+.M {
+  top: -24px;
+  left: -67px;
+}
+.N {
+  top: -24px;
+  left: -29px;
+}
+.O {
+  top: -27px;
+  left: 12px;
+}
+.P {
+  top: -17px;
+  left: 0px;
+}
+.Q {
+  top: -91px;
+  left: -40px;
+}
+.R {
+  top: -2px;
+  left: -3px;
+}
+.S {
+  top: -78px;
+  left: 8px;
+}
+.T {
+  top: -21px;
+  left: -3px;
+}
+.U {
+  top: -22px;
+  left: 24px;
+}
+.V {
+  top: -11px;
+  left: -17px;
+}
+.W {
+  top: -21px;
+  left: -100px;
+}
+.X {
+  top: -47px;
+  left: 19px;
+}
+.Y {
+  top: 20px;
+  left: -3px;
+}
+.Z {
+  top: -7px;
+  left: -12px;
+}
+.Z1 {
+  top: 10px;
+  left: 10px;
+}
+.Z2 {
+  top: -64px;
+  left: 91px;
+}

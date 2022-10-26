@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-Bold.eot');
+    src: local('Brioni Pro Bold'), local('BrioniPro-Bold'),
+        url('BrioniPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-Bold.woff2') format('woff2'),
+        url('BrioniPro-Bold.woff') format('woff'),
+        url('BrioniPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-BoldItalic.eot');
+    src: local('Brioni Pro Bold Italic'), local('BrioniPro-BoldItalic'),
+        url('BrioniPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-BoldItalic.woff2') format('woff2'),
+        url('BrioniPro-BoldItalic.woff') format('woff'),
+        url('BrioniPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-LightItalic.eot');
+    src: local('Brioni Pro Light Italic'), local('BrioniPro-LightItalic'),
+        url('BrioniPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-LightItalic.woff2') format('woff2'),
+        url('BrioniPro-LightItalic.woff') format('woff'),
+        url('BrioniPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-Regular.eot');
+    src: local('Brioni Pro Regular'), local('BrioniPro-Regular'),
+        url('BrioniPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-Regular.woff2') format('woff2'),
+        url('BrioniPro-Regular.woff') format('woff'),
+        url('BrioniPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-Medium.eot');
+    src: local('Brioni Pro Medium'), local('BrioniPro-Medium'),
+        url('BrioniPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-Medium.woff2') format('woff2'),
+        url('BrioniPro-Medium.woff') format('woff'),
+        url('BrioniPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-Light.eot');
+    src: local('Brioni Pro Light'), local('BrioniPro-Light'),
+        url('BrioniPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-Light.woff2') format('woff2'),
+        url('BrioniPro-Light.woff') format('woff'),
+        url('BrioniPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-MediumItalic.eot');
+    src: local('Brioni Pro Medium Italic'), local('BrioniPro-MediumItalic'),
+        url('BrioniPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-MediumItalic.woff2') format('woff2'),
+        url('BrioniPro-MediumItalic.woff') format('woff'),
+        url('BrioniPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brioni Pro';
+    src: url('BrioniPro-Italic.eot');
+    src: local('Brioni Pro Italic'), local('BrioniPro-Italic'),
+        url('BrioniPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('BrioniPro-Italic.woff2') format('woff2'),
+        url('BrioniPro-Italic.woff') format('woff'),
+        url('BrioniPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+

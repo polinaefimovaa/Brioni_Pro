@@ -1,0 +1,751 @@
+.nachertaniya {
+  width: 1440px;
+  height: 1042px;
+  position: relative;
+}
+h1 {
+  font-size: 65px;
+  font-weight: bold;
+  position: absolute;
+}
+.nach {
+  top: 25px;
+  left: 300px;
+}
+.nach1 {
+  width: 999px;
+  height: 6px;
+  background: black;
+  position: absolute;
+  top: 99px;
+  left: 221px;
+}
+.osob {
+  width: 1440px;
+  height: 3000px;
+  overflow: hidden;
+}
+.osobennosti {
+  width: 1440px;
+  height: 1800px;
+  position: relative;
+}
+h2 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: normal;
+  /* text-decoration-line: underline; */
+  position: absolute;
+}
+
+.pianino {
+  width:1349px;
+  height: 552px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  margin-left: -29px;
+  margin-top: 154px;
+}
+.pio0 {
+  width: 159px;
+  height: 549px;
+  background: black;
+  margin-left: 111px;
+}
+.pianino1 {
+  width:1349px;
+  height: 552px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  margin-left: 16px;
+  margin-top: 492px;
+}
+.pio1 {
+  width: 90px;
+  height: 526px;
+  background: white;
+  border: 5px solid black;
+  margin-left: 170px;
+}
+.grey {
+  width:1136px;
+  height: 206px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-left: 129px;
+  margin-top: 497px;
+}
+.gr {
+  width: 56px;
+  height: 206px;
+  background: #868686;
+}
+
+.tt > h4 {
+  width: 505px;
+  height: 94px;
+  transform: rotate(-90deg);
+  position: absolute;
+  font-size: 50px;
+}
+.tt h4:nth-of-type(1){
+  font-weight: bold;
+  left: 9px;
+  top: 714px;
+}
+.tt h4:nth-of-type(2){
+  font-weight: lighter;
+  left: 275px;
+  top: 714px;
+}
+.tt h4:nth-of-type(3){
+  font-weight: normal;
+  left: 549px;
+  top: 714px;
+}
+.tt h4:nth-of-type(4){
+  font-weight: 700;
+  left: 819px;
+  top: 714px;
+}
+.ttt > h4 {
+  width: 550px;
+  height: 94px;
+  transform: rotate(-90deg);
+  position: absolute;
+  font-size: 40px;
+  font-style: italic;
+  color: #4C4C4C;
+}
+.ttt h4:nth-of-type(1){
+  font-weight: bold;
+  left: 60px;
+  top: 688px;
+}
+.ttt h4:nth-of-type(2){
+  font-weight: lighter;
+  left: 329px;
+  top: 688px;
+}
+.ttt h4:nth-of-type(3){
+  font-weight: normal;
+  left: 597px;
+  top: 688px;
+}
+.ttt h4:nth-of-type(4){
+  font-weight: 700;
+  left: 868px;
+  top: 688px;
+}
+.liine {
+   width: 1440px;
+   height: 5px;
+   background: black;
+   position: absolute;
+   top: 2px;
+}
+.liine1 {
+   width: 1440px;
+   height: 5px;
+   background: black;
+   position: absolute;
+   top: 532px;
+}
+.prrr {
+  width: 1181px;
+  height: 405px;
+  border: 3px solid black;
+  position: absolute;
+  top: 56px;
+  left:135px;
+}
+.prr {
+  width: 1181px;
+  height: 405px;
+  position: relative;
+  top: 86px;
+  left:135px;
+}
+.prr1 {
+  width: 1185px;
+  height: 1px;
+  background: black;
+  margin-left: 1px;
+  margin-top: 34px;
+}
+.prr2 {
+  width: 3px;
+  height: 405px;
+  background: black;
+  position: absolute;
+  top: -27px;
+  left: 592px;
+}
+.prr > h3 {
+  width: 440px;
+  height: 140px;
+  text-align: center;
+  line-height: 106%;
+  position: absolute;
+  top: 89px;
+  left: 77px;
+}
+.prr > h4 {
+  font-size: 90px;
+  position: absolute;
+}
+.prr h4:nth-of-type(1) {
+  top:15px;
+  left: 645px;
+}
+.prr h4:nth-of-type(2) {
+  top:139px;
+  left: 801px;
+}
+.prr h4:nth-of-type(3) {
+  top: 269px;
+  left: 1028px;
+}
+.prr h4:nth-of-type(4) {
+  top:52px;
+  left: 916px;
+}
+.prr h4:nth-of-type(5) {
+  top: 254px;
+  left: 685px;
+}
+.osob > img {
+  width: 1506px;
+  height: 2277px;
+  position: absolute;
+  top:537px;
+  left: -33px;
+}
+.bl, .sq11, .sq12, .sq13, .sq14, .sq15, .sq16, .bll, .sq17 {
+  border: 3px solid black;
+  background: white;
+}
+.black {
+  background: black;
+}
+.white {
+  border: 2px solid white;
+}
+.whitee {
+  background: white;
+}
+/* первая рамка - толстые засечки */
+.sq11 {
+  width: 318px;
+  height: 434px;
+  position: relative;
+  top:192px;
+  left:82px;
+}
+
+.sq11 div:nth-of-type(1) {
+  width: 290px;
+  height: 409px;
+  position: absolute;
+  top:10px;
+  left:11px;
+}
+
+.sq11 div:nth-of-type(2) {
+  width: 227px;
+  height: 227px;
+  position: absolute;
+  border-radius: 100%;
+  top: 41px;
+  left:45px;
+}
+
+.sq11 div:nth-of-type(3) {
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 100%;
+  /* overflow: hidden; */
+  top:107px;
+  left:111px;
+}
+
+.whitee > h4 {
+  font-size: 180px;
+  color: black;
+  position: absolute;
+}
+.sq11 > .whitee > h4 {
+  top: 4px;
+  left: 19px;
+}
+.sq11 div:nth-of-type(4) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 295px;
+  left:45px;
+}
+.sq11 div:nth-of-type(5) {
+  width: 150px;
+  height: 78px;
+  position: absolute;
+  top: 295px;
+  left: 122px;
+}
+.sq11 div:nth-of-type(6) {
+  width: 131px;
+  height: 66px;
+  position: absolute;
+  top: 299px;
+  left: 130px;
+}
+
+.sq11 > p, .sq12 >p, .sq14 >p, .sq15 >p, .sq16 >p{
+  font-size: 27px;
+  line-height: 106.5%;
+  color: white;
+  position: absolute;
+}
+.bl1 {
+  font-size: 50px;
+  position: absolute;
+  color: black;
+}
+.sq11 > .bl > p {
+  top:10px;
+  left:15px;
+}
+.sq11 > p {
+  top: 306px;
+  left:144px;
+}
+/* вторая рамка - выносные элементы */
+.sq12 {
+  width: 318px;
+  height: 434px;
+  position: relative;
+  top:-210px;
+  left:451px;
+}
+.sq12 div:nth-of-type(1) {
+  width: 290px;
+  height: 409px;
+  position: absolute;
+  top:10px;
+  left:11px;
+}
+.sq12 div:nth-of-type(2) {
+  width: 227px;
+  height: 227px;
+  position: absolute;
+  border-radius: 100%;
+  top:50px;
+  left:45px;
+}
+.sq12 div:nth-of-type(3) {
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 100%;
+  overflow: hidden;
+  top:117px;
+  left:111px;
+}
+.sq12 div:nth-of-type(4) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 305px;
+  left: 33px;
+}
+.sq12 div:nth-of-type(5) {
+  width: 174px;
+  height: 78px;
+  position: absolute;
+  top: 305px;
+  left: 110px;
+}
+.sq12 div:nth-of-type(6) {
+  width: 153px;
+  height: 66px;
+  position: absolute;
+  top: 309px;
+  left: 119px;
+}
+.sq12 > .whitee > h4 {
+  top: -116px;
+  left: -23px;
+}
+.sq12 > .bl > p {
+  top: 11px;
+  left: 7px;
+}
+.sq12 > p {
+  top: 316px;
+  left:131px;
+}
+/* третья рамка с пластиной - свисающие элементы */
+.sq13 {
+  width: 540px;
+  height: 735px;
+  position: relative;
+  top:-688px;
+  left:819px;
+}
+.sq13 div:nth-of-type(1) {
+  width: 492px;
+  height: 693px;
+  position: absolute;
+  top:19px;
+  left:21px;
+}
+.sq13 div:nth-of-type(2) {
+  width: 408px;
+  height: 408px;
+  position: absolute;
+  border-radius: 100%;
+  top:70px;
+  left:66px;
+}
+.sq13 div:nth-of-type(3) {
+  width: 171px;
+  height: 171px;
+  position: absolute;
+  border-radius: 100%;
+  overflow: hidden;
+  top:187px;
+  left:184px;
+}
+.sq13 div:nth-of-type(4) {
+  width: 102px;
+  height: 134px;
+  position: absolute;
+  top: 526px;
+  left: 46px;
+}
+.sq13 div:nth-of-type(5) {
+  width: 325px;
+  height: 140px;
+  position: absolute;
+  top: 526px;
+  left: 164px;
+}
+.sq13 div:nth-of-type(6) {
+  width: 301px;
+  height: 118px;
+  position: absolute;
+  top: 535px;
+  left: 173px;
+}
+.sq13 > .whitee > h4 {
+  font-size: 323px;
+  font-weight: bold;
+  top: -162px;
+  left: 66px;
+}
+.sq13 > .bl > p {
+  font-size: 89px;
+  top: 22px;
+  left: 26px;
+}
+.sq13 > p {
+  font-size: 49px;
+  position: absolute;
+  line-height: 106.5%;
+  color: white;
+  top: 545px;
+  left:187px;
+}
+/* концевой элемент */
+.sq14 {
+  width: 318px;
+  height: 297px;
+  position: relative;
+  top:-928px;
+  left:82px;
+}
+.sq14 div:nth-of-type(1) {
+  width: 290px;
+  height: 278px;
+  position: absolute;
+  top: 7px;
+  left: 11px;
+}
+.sq14 div:nth-of-type(2) {
+  width: 172px;
+  height: 172px;
+  position: absolute;
+  border-radius: 100%;
+  top:16px;
+  left:73px;
+}
+.sq14 div:nth-of-type(3) {
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  border-radius: 100%;
+  /* overflow: hidden; */
+  top:58px;
+  left:116px;
+}
+.sq14 div:nth-of-type(4) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 201px;
+  left: 31px;
+}
+.sq14 div:nth-of-type(5) {
+  width: 164px;
+  height: 78px;
+  position: absolute;
+  top: 201px;
+  left: 120px;
+}
+.sq14 div:nth-of-type(6) {
+  width: 148px;
+  height: 66px;
+  position: absolute;
+  top: 205px;
+  left: 125px;
+}
+.sq14 > .whitee > h4 {
+  font-size: 193px;
+  font-style: italic;
+  top: -84px;
+  left: -30px;
+}
+.sq14 > .bl > p {
+  font-style: italic;
+  top: 11px;
+  left: 15px;
+}
+.sq14 > p {
+  position: absolute;
+  color: white;
+  top: 212px;
+  left: 136px;
+}
+/* курсив */
+.sq15 {
+  width: 318px;
+  height: 567px;
+  position: relative;
+  top:-1205px;
+  left: 451px;
+}
+.sq15 div:nth-of-type(1) {
+  width: 290px;
+  height: 534px;
+  position: absolute;
+  top: 14px;
+  left: 11px;
+}
+.sq15 div:nth-of-type(2) {
+  width: 264px;
+  height: 264px;
+  position: absolute;
+  border-radius: 100%;
+  top:32px;
+  left:26px;
+}
+.sq15 div:nth-of-type(3) {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  border-radius: 100%;
+  /* overflow: hidden; */
+  top: 110px;
+  left:104px;
+}
+.sq15 div:nth-of-type(4) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 315px;
+  left: 43px;
+}
+.sq15 div:nth-of-type(5) {
+  width: 150px;
+  height: 78px;
+  position: absolute;
+  top: 315px;
+  left: 131px;
+}
+.sq15 div:nth-of-type(6) {
+  width: 131px;
+  height: 66px;
+  position: absolute;
+  top: 319px;
+  left: 138px;
+}
+.sq15 > .whitee > h4 {
+  font-size: 209px;
+  font-style: italic;
+  top: -36px;
+  left: 6px;
+}
+
+.sq15  p:nth-of-type(1) {
+  position: absolute;
+  color: white;
+  top: 341px;
+  left: 159px;
+}
+.sq15 > .bl > p {
+  font-style: italic;
+  color: black;
+  top: 11px;
+  left: 15px;
+}
+.sq15  p:nth-of-type(2) {
+  position: absolute;
+  color: white;
+  top: 312px;
+  left: 136px;
+}
+.ugol {
+  font-size: 30px;
+  position: absolute;
+  line-height: 106.5%;
+  top:409px;
+  left:39px;
+}
+/* расстояние между буквами */
+.sq16 {
+  width: 540px;
+  height: 362px;
+  position: relative;
+  top:-1523px;
+  left: 819px;
+}
+.sq16 div:nth-of-type(1) {
+  width: 494px;
+  height: 322px;
+  position: absolute;
+  top: 16px;
+  left: 20px;
+}
+.sq16 div:nth-of-type(2) {
+  width: 241px;
+  height: 241px;
+  position: absolute;
+  border-radius: 100%;
+  top: 61px;
+  left: 55px;
+}
+.sq16 div:nth-of-type(3) {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  border-radius: 100%;
+  /* overflow: hidden; */
+  top: 130px;
+  left:124px;
+}
+.sq16 div:nth-of-type(4) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 42px;
+  left: 306px;
+}
+.sq16 div:nth-of-type(5) {
+  width: 196px;
+  height: 167px;
+  position: absolute;
+  top: 137px;
+  left: 306px;
+}
+.sq16 div:nth-of-type(6) {
+  width: 178px;
+  height: 149px;
+  position: absolute;
+  top: 144px;
+  left: 313px;
+}
+.sq16 div:nth-of-type(7) {
+  width: 54px;
+  height: 72px;
+  position: absolute;
+  top: 42px;
+  left: 382px;
+}
+.sq16 > .whitee > h4 {
+  font-size: 266px;
+  top: -77px;
+  left: -19px;
+}
+
+.sq16  p:nth-of-type(1) {
+  position: absolute;
+  color: white;
+  top: 165px;
+  left: 321px;
+}
+.sq16 > .bl > p {
+  color: black;
+  top: 11px;
+  left: 13px;
+}
+.sq16 > .bll > p {
+  color: black;
+  top: 11px;
+  left: 6px;
+}
+.bl1 {
+  color: black;
+  top: 11px;
+  left: 15px;
+}
+.sq16  p:nth-of-type(2) {
+  position: absolute;
+  color: white;
+  top: 312px;
+  left: 136px;
+}
+/* рамка - пластина */
+.sq17 {
+  width: 318px;
+  height: 297px;
+  position: relative;
+  top:-1838px;
+  left:82px;
+}
+.sq17 > .bl {
+  width: 290px;
+  height: 280px;
+  position: absolute;
+  top: 6px;
+  left: 11px;
+}
+.sq17 div:nth-of-type(2) {
+  width: 227px;
+  height: 227px;
+  position: absolute;
+  border-radius: 100%;
+  top: 27px;
+  left:45px;
+}
+.sq17 div:nth-of-type(3) {
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  border-radius: 100%;
+  /* overflow: hidden; */
+  top:93px;
+  left:110px;
+}
+.bla {
+  width:27px;
+  height: 27px;
+  border-radius: 100%;
+  background: black;
+  position: absolute;
+  top: 34px;
+  left: 35px;
+}

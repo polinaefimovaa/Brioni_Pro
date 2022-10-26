@@ -1,0 +1,290 @@
+.moresymbols {
+  width: 1440px;
+  height:720px;
+  position: relative;
+  top:-18px;
+}
+.mr {
+  font-size: 332px;
+  position: absolute;
+}
+.mr1 {
+  font-size: 262px;
+  position: absolute;
+}
+.mr2 {
+  font-size: 430px;
+  position:absolute;
+}
+.mr3 {
+  font-size: 255px;
+  font-weight: bold;
+  position: absolute;
+}
+.mr4 {
+  font-size: 223px;
+  font-weight: bold;
+  position: absolute;
+}
+.mr5 {
+  font-size: 100px;
+  font-weight: bold;
+  position: absolute;
+}
+.mr6 {
+  font-size: 197px;
+  position: absolute;
+}
+.mr7 {
+  font-size: 402px;
+  position: absolute;
+}
+.moresymbols p:nth-of-type(1) {
+  top: 29px;
+  left:5px;
+}
+.moresymbols p:nth-of-type(2) {
+  top: 60px;
+  left:78px;
+}
+.moresymbols p:nth-of-type(3) {
+  font-size: 163px;
+  position: absolute;
+  top:353px;
+  left: -3px;
+}
+.moresymbols p:nth-of-type(4) {
+  top:354px;
+  left: 101px;
+}
+.moresymbols p:nth-of-type(5) {
+  top:45px;
+  left: 212px;
+}
+.moresymbols p:nth-of-type(6) {
+  top: 203px;
+  left: 203px;
+}
+.moresymbols p:nth-of-type(7) {
+  top: -38px;
+  left: 204px;
+}
+.moresymbols p:nth-of-type(8) {
+  top: 134px;
+  left: 201px;
+}
+.moresymbols p:nth-of-type(9) {
+  font-weight: normal;
+  top: 377px;
+  left: 32px;
+}
+.moresymbols p:nth-of-type(10) {
+  top: 611px;
+  left: 19px;
+}
+.moresymbols p:nth-of-type(11) {
+  top: 213px;
+  left: 277px;
+}
+.moresymbols p:nth-of-type(12) {
+  top: 537px;
+  left: 161px;
+}
+.moresymbols p:nth-of-type(13) {
+  top: 410px;
+  left: 306px;
+}
+.moresymbols p:nth-of-type(14) {
+  top: 335px;
+  left: 372px;
+}
+.moresymbols p:nth-of-type(15) {
+  font-size: 176px;
+  font-weight: bold;
+  position: absolute;
+  top: 568px;
+  left: 350px;
+}
+.moresymbols p:nth-of-type(16) {
+  font-size: 567px;
+  font-weight: bold;
+  position: absolute;
+  top: 353px;
+  left: 415px;
+}
+.moresymbols p:nth-of-type(17) {
+  font-size: 436px;
+  font-weight: normal;
+  position: absolute;
+  top: -21px;
+  left: 315px;
+}
+.moresymbols p:nth-of-type(18) {
+  top: 149px;
+  left: 428px;
+}
+.moresymbols p:nth-of-type(19) {
+  top: 174px;
+  left: 438px;
+}
+.moresymbols p:nth-of-type(20) {
+  top: 141px;
+  left: 593px;
+}
+.moresymbols p:nth-of-type(21) {
+  font-size: 379px;
+  font-weight: bold;
+  position: absolute;
+  top: -18px;
+  left: 559px;
+}
+.moresymbols p:nth-of-type(22) {
+  font-size: 170px;
+  font-weight: bold;
+  position: absolute;
+  top: 590px;
+  left: 515px;
+}
+.moresymbols p:nth-of-type(23) {
+  font-weight: 500;
+  top: 327px;
+  left: 596px;
+}
+.moresymbols p:nth-of-type(24) {
+  top: 63px;
+  right: 468px;
+}
+.moresymbols p:nth-of-type(25) {
+  top: 222px;
+  right: 470px;
+}
+.moresymbols p:nth-of-type(26) {
+  top: -19px;
+  right: 465px;
+}
+.moresymbols p:nth-of-type(27) {
+  top: 153px;
+  right: 468px;
+}
+.moresymbols p:nth-of-type(28) {
+  top: 197px;
+  right: 9px;
+}
+.moresymbols p:nth-of-type(29) {
+  top: 364px;
+  right: 8px;
+}
+.moresymbols p:nth-of-type(30) {
+  top: 116px;
+  right: 5px;
+}
+.moresymbols p:nth-of-type(31) {
+  top: 294px;
+  right: 6px;
+}
+.moresymbols p:nth-of-type(32) {
+  font-weight: normal;
+  top: 626px;
+  right: 651px;
+}
+.moresymbols p:nth-of-type(33) {
+  top: 434px;
+  right: 699px;
+}
+.moresymbols p:nth-of-type(34) {
+  top: 473px;
+  right: 489px;
+}
+.moresymbols p:nth-of-type(35) {
+  font-size: 148px;
+  font-weight: bold;
+  position: absolute;
+  top: 468px;
+  left: 740px;
+}
+.moresymbols p:nth-of-type(36) {
+  top: 292px;
+  right: 618px;
+}
+.moresymbols p:nth-of-type(37) {
+  top: -33px;
+  right: 603px;
+}
+.moresymbols p:nth-of-type(38) {
+  top: 123px;
+  left: 966px;
+}
+.moresymbols p:nth-of-type(39) {
+  top: -228px;
+  right: 616px;
+}
+.moresymbols p:nth-of-type(40) {
+  top: 408px;
+  right: 357px;
+}
+.moresymbols p:nth-of-type(41) {
+  font-size: 449px;
+  font-weight: bold;
+  position: absolute;
+  letter-spacing: 0.025em;
+  top: 276px;
+  left: 999px;
+}
+.moresymbols p:nth-of-type(42) {
+  top: 396px;
+  right: 421px;
+}
+.moresymbols p:nth-of-type(43) {
+  top: -141px;
+  right: 383px;
+}
+.moresymbols p:nth-of-type(44) {
+  font-weight: bold;
+  top: -10px;
+  right: 257px;
+}
+.moresymbols p:nth-of-type(45) {
+  top: 4px;
+  right: 141px;
+}
+.moresymbols p:nth-of-type(46) {
+  font-size: 409px;
+  font-weight: bold;
+  position: absolute;
+  top: 509px;
+  left: 1267px;
+}
+.moresymbols p:nth-of-type(47) {
+  font-size: 189px;
+  font-weight: bold;
+  position: absolute;
+  top: -44px;
+  left: 1214px;
+}
+.moresymbols p:nth-of-type(48) {
+  font-size: 165px;
+  font-weight: bold;
+  position: absolute;
+  top: 140px;
+  left: 1213px;
+}
+.moresymbols p:nth-of-type(49) {
+  top: 168px;
+  right: 247px;
+}
+.moresymbols p:nth-of-type(50) {
+  font-weight: bold;
+  top: 6px;
+  right: -4px;
+}
+.moresymbols > h5 {
+  width:165px;
+  height: 315px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 151%;
+  position: absolute;
+  top:240px;
+  right: 202px;
+}
