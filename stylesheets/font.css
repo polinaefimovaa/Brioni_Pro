@@ -1,12 +1,7 @@
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-Bold.eot');
-    src: local('Brioni Pro Bold'), local('BrioniPro-Bold'),
-        url('BrioniPro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-Bold.woff2') format('woff2'),
-        url('BrioniPro-Bold.woff') format('woff'),
-        url('BrioniPro-Bold.ttf') format('truetype');
-    font-weight: bold;
+    font-family: 'Brioni Pro Bold';
+    src: url('../fonts/BrioniPro-Bold.ttf');
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -93,4 +88,3 @@
     font-weight: normal;
     font-style: italic;
 }
-
