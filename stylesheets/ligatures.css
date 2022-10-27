@@ -205,7 +205,7 @@
   top:810px;
   right:281px;
 }
-.ccirc, .ccirc0, .ccirc1 {
+.ccirc, .ccirc0, .ccirc1, .ccirc2 {
   width: 232px;
   height: 55px;
   position: relative;
@@ -223,7 +223,11 @@
   top: -81px;
   left:774px;
 }
-.ccirc > div, .ccirc0 >div, .ccirc1 > div {
+.ccirc2 {
+  top: -136px;
+  left: 1108px;
+}
+.ccirc > div, .ccirc0 >div, .ccirc1 > div, .ccirc2 > div {
   width: 49px;
   height: 49px;
   border: 3px solid black;
