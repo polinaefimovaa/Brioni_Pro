@@ -6,85 +6,50 @@
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-BoldItalic.eot');
-    src: local('Brioni Pro Bold Italic'), local('BrioniPro-BoldItalic'),
-        url('BrioniPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-BoldItalic.woff2') format('woff2'),
-        url('BrioniPro-BoldItalic.woff') format('woff'),
-        url('BrioniPro-BoldItalic.ttf') format('truetype');
-    font-weight: bold;
+    font-family: 'Brioni Pro Bold Italic';
+    src: url('../fonts/BrioniPro-BoldItalic.ttf');
+    font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-LightItalic.eot');
-    src: local('Brioni Pro Light Italic'), local('BrioniPro-LightItalic'),
-        url('BrioniPro-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-LightItalic.woff2') format('woff2'),
-        url('BrioniPro-LightItalic.woff') format('woff'),
-        url('BrioniPro-LightItalic.ttf') format('truetype');
+    font-family: 'Brioni Pro Light Italic';
+    src: url('../fonts/BrioniPro-LightItalic.ttf');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-Regular.eot');
-    src: local('Brioni Pro Regular'), local('BrioniPro-Regular'),
-        url('BrioniPro-Regular.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-Regular.woff2') format('woff2'),
-        url('BrioniPro-Regular.woff') format('woff'),
-        url('BrioniPro-Regular.ttf') format('truetype');
-    font-weight: normal;
+    font-family: 'Brioni Pro Regular';
+    src: url('../fonts/BrioniPro-Regular.ttf');
+    font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-Medium.eot');
-    src: local('Brioni Pro Medium'), local('BrioniPro-Medium'),
-        url('BrioniPro-Medium.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-Medium.woff2') format('woff2'),
-        url('BrioniPro-Medium.woff') format('woff'),
-        url('BrioniPro-Medium.ttf') format('truetype');
+    font-family: 'Brioni Pro Medium';
+    src: url('../fonts/BrioniPro-Medium.ttf');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-Light.eot');
-    src: local('Brioni Pro Light'), local('BrioniPro-Light'),
-        url('BrioniPro-Light.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-Light.woff2') format('woff2'),
-        url('BrioniPro-Light.woff') format('woff'),
-        url('BrioniPro-Light.ttf') format('truetype');
+    font-family: 'Brioni Pro Light';
+    src: url('../fonts/BrioniPro-Light.ttf');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-MediumItalic.eot');
-    src: local('Brioni Pro Medium Italic'), local('BrioniPro-MediumItalic'),
-        url('BrioniPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-MediumItalic.woff2') format('woff2'),
-        url('BrioniPro-MediumItalic.woff') format('woff'),
-        url('BrioniPro-MediumItalic.ttf') format('truetype');
+    font-family: 'Brioni Pro Medium Italic';
+    src: url('../fonts/BrioniPro-MediumItalic.ttf');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Brioni Pro';
-    src: url('BrioniPro-Italic.eot');
-    src: local('Brioni Pro Italic'), local('BrioniPro-Italic'),
-        url('BrioniPro-Italic.eot?#iefix') format('embedded-opentype'),
-        url('BrioniPro-Italic.woff2') format('woff2'),
-        url('BrioniPro-Italic.woff') format('woff'),
-        url('BrioniPro-Italic.ttf') format('truetype');
-    font-weight: normal;
+    font-family: 'Brioni Pro Italic';
+    src: url('../fonts/BrioniPro-Italic.ttf');
+    font-weight: 400;
     font-style: italic;
 }

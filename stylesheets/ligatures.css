@@ -28,6 +28,7 @@
   left:38px;
 }
 .lig > p {
+  font-family: 'Brioni Pro Regular';
   font-size: 20px;
   position: absolute;
 }
@@ -94,7 +95,7 @@
   left:116px;
 }
 .first > h5 {
-  font-weight: normal;
+  font-family: 'Brioni Pro Regular';
   font-size: 50px;
   line-height: 121.5%;
   position: absolute;
@@ -127,8 +128,8 @@
   margin-left: 50px;
 }
 .playlist > div > p {
+  font-family: 'Brioni Pro Light';
   font-size: 139px;
-  font-weight: lighter;
   position: absolute;
 }
 .play1 {
@@ -260,7 +261,7 @@
   position: absolute;
 }
 .jazzquote > p {
-  font-weight: normal;
+  font-family: 'Brioni Pro Regular';
   position: absolute;
 }
 .jazzquote h6:nth-of-type(1) {

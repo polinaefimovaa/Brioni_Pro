@@ -89,6 +89,7 @@ h2 {
   height: 94px;
   transform: rotate(-90deg);
   position: absolute;
+  font-family: 'Brioni Pro Regular';
   font-size: 50px;
 }
 .tt h4:nth-of-type(1){
@@ -97,46 +98,46 @@ h2 {
   top: 714px;
 }
 .tt h4:nth-of-type(2){
-  font-weight: lighter;
+  font-family: 'Brioni Pro Light';
   left: 275px;
   top: 714px;
 }
 .tt h4:nth-of-type(3){
-  font-weight: normal;
+  font-family: 'Brioni Pro Regular';
   left: 549px;
   top: 714px;
 }
 .tt h4:nth-of-type(4){
-  font-weight: 700;
+  font-family: 'Brioni Pro Medium';
   left: 819px;
   top: 714px;
 }
 .ttt > h4 {
+  font-family: 'Brioni Pro Italic';
   width: 550px;
   height: 94px;
   transform: rotate(-90deg);
   position: absolute;
   font-size: 40px;
-  font-style: italic;
   color: #4C4C4C;
 }
 .ttt h4:nth-of-type(1){
-  font-family: 'Brioni Pro Bold';
+  font-family: 'Brioni Pro Bold Italic';
   left: 60px;
   top: 688px;
 }
 .ttt h4:nth-of-type(2){
-  font-weight: lighter;
+  font-family: 'Brioni Pro Light Italic';
   left: 329px;
   top: 688px;
 }
 .ttt h4:nth-of-type(3){
-  font-weight: normal;
+  font-family: 'Brioni Pro Italic';
   left: 597px;
   top: 688px;
 }
 .ttt h4:nth-of-type(4){
-  font-weight: 700;
+  font-family: 'Brioni Pro Medium Italic';
   left: 868px;
   top: 688px;
 }
@@ -190,10 +191,11 @@ h2 {
   text-align: center;
   line-height: 106%;
   position: absolute;
-  top: 89px;
+  top: 91px;
   left: 77px;
 }
 .prr > h4 {
+  font-family: 'Brioni Pro Regular';
   font-size: 90px;
   position: absolute;
 }
@@ -274,6 +276,7 @@ h2 {
 }
 
 .whitee > h4 {
+  font-family: 'Brioni Pro Regular';
   font-size: 180px;
   color: black;
   position: absolute;
@@ -305,12 +308,14 @@ h2 {
 }
 
 .sq11 > p, .sq12 >p, .sq14 >p, .sq15 >p, .sq16 >p{
+  font-family: 'Brioni Pro Regular';
   font-size: 27px;
   line-height: 106.5%;
   color: white;
   position: absolute;
 }
 .bl1 {
+  font-family: 'Brioni Pro Regular';
   font-size: 50px;
   position: absolute;
   color: black;
@@ -448,11 +453,13 @@ h2 {
   left: 66px;
 }
 .sq13 > .bl > p {
+  font-family: 'Brioni Pro Regular';
   font-size: 89px;
   top: 22px;
   left: 26px;
 }
 .sq13 > p {
+  font-family: 'Brioni Pro Regular';
   font-size: 49px;
   position: absolute;
   line-height: 106.5%;
@@ -515,12 +522,12 @@ h2 {
 }
 .sq14 > .whitee > h4 {
   font-size: 193px;
-  font-style: italic;
+  font-family: 'Brioni Pro Italic';
   top: -84px;
   left: -30px;
 }
 .sq14 > .bl > p {
-  font-style: italic;
+  font-family: 'Brioni Pro Italic';
   top: 11px;
   left: 15px;
 }
@@ -585,7 +592,7 @@ h2 {
 }
 .sq15 > .whitee > h4 {
   font-size: 209px;
-  font-style: italic;
+  font-family: 'Brioni Pro Italic';
   top: -36px;
   left: 6px;
 }
@@ -597,7 +604,7 @@ h2 {
   left: 159px;
 }
 .sq15 > .bl > p {
-  font-style: italic;
+  font-family: 'Brioni Pro Italic';
   color: black;
   top: 11px;
   left: 15px;
@@ -609,6 +616,7 @@ h2 {
   left: 136px;
 }
 .ugol {
+  font-family: 'Brioni Pro Regular';
   font-size: 30px;
   position: absolute;
   line-height: 106.5%;
@@ -676,6 +684,7 @@ h2 {
   left: 382px;
 }
 .sq16 > .whitee > h4 {
+  font-family: 'Brioni Pro Regular';
   font-size: 266px;
   top: -77px;
   left: -19px;
